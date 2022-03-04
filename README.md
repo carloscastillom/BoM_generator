@@ -1,5 +1,5 @@
 # BoM_Creator
-The Company I work for requires to create a BoM for every single Sales order. The Task have to be done and I created a BoM creater, which makes the whole process more efficient
+The company requires to create a BoM for every single Sales order. The Task have to be done and I created a BoM creater, which makes the whole process more efficient
 
 Use of:
 xlwingz
