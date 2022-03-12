@@ -1,5 +1,5 @@
 # BoM_Creator
-The company requires to create a BoM for every single Sales order. The task have to be done and I created the BoM creater, which makes the whole process more efficient
+The company requires to create a BoM for every single Sales order. I created the BoM creater, which makes the whole process more efficient
 
 Use of:
 xlwingz - integrates Excel and Python
