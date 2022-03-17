@@ -14,7 +14,7 @@ It is the excel sheet which includes the sales order that we have received. It i
 
 
 ## Project_DB 
-is the database with all the information. it is in a CSV format. 
+is the database with all the information. As Following
 
 ![example ProjectDB](https://user-images.githubusercontent.com/65776444/158790569-699af570-f183-4ca1-89bc-a56902a11cbe.PNG)
 
