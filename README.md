@@ -9,5 +9,9 @@ numpy - use of lists
 ## Project File
 It is the excel sheet which includes the sales order that we have received. It is a matrix where you can see the items on the column side and the sales order is the only row
 
+![example Project](https://user-images.githubusercontent.com/65776444/158789866-9497de59-74f7-43ae-9c80-b1dac636763d.PNG)
+
+
+
 ## Project_DB 
 is the database with all the information. it is in a CSV format. 
