@@ -2,9 +2,9 @@
 The company requires to create a BoM for every single Sales order. I developed this project, which makes the whole process more efficient. 
 
 Use of:
-- xlwingz - integrates Excel and Python.
-- pandas  - use of the Dataframes to manage data
-- numpy - use of lists to manage data 
+- xlwingz - integrates Excel and Python. 
+- pandas  - use of the Dataframes to manage data. 
+- numpy - use of lists to manage data. 
 
 ## Project File
 It is the excel sheet which includes the sales order that we have received. It is a matrix where you can see the items on the column side and the sales order is the only row.
