@@ -1,5 +1,5 @@
 # BoM_Creator
-The company requires to create a BoM for every single Sales order. I developed this tool that makes the whole process more efficient. In work, I use a slighly different version based on our real information.
+The company requires to create a BoM for every single Sales order. I developed this tool that makes the whole process more efficient. In work, I use a slighly different version based on our real information. optimizing time consuming tasks
 
 Use of:
 - xlwingz - integrates Excel and Python. 
